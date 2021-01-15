@@ -1,4 +1,4 @@
-package by.epam.training1.cycle;
+package by.epam.training.cycle;
 
 /**
  * Даны два числа. Определить цифры, входящие в запись как первого так и второго числа.

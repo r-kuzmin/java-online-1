@@ -1,4 +1,4 @@
-package by.epam.training1.cycle;
+package by.epam.training.cycle;
 
 /**
  * Найти сумму квадратов первых ста чисел.

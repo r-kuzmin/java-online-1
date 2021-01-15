@@ -1,4 +1,4 @@
-package by.epam.training1.branching;
+package by.epam.training.branching;
 
 /**
  * Даны три точки А(х1,у1), В(х2,у2) и С(х3,у3). Определить, будут ли они

@@ -1,4 +1,4 @@
-package by.epam.training1.cycle;
+package by.epam.training.cycle;
 
 /**
  * Даны числовой ряд и некоторое число е. Найти сумму тех членов ряда, модуль

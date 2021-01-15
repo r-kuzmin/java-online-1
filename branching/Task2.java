@@ -1,4 +1,4 @@
-package by.epam.training1.branching;
+package by.epam.training.branching;
 
 /**
  * Найти max{min(a, b), min(c, d)}.

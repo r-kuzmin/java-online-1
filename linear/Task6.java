@@ -1,4 +1,4 @@
-package by.epam.training1.linear;
+package by.epam.training.linear;
 
 /**
  * Для данной области составить линейную программу, которая печатает true, если

@@ -1,4 +1,4 @@
-package by.epam.training1.cycle;
+package by.epam.training.cycle;
 
 /**
  * Вычислить значения функции на отрезке [а,b] c шагом h.

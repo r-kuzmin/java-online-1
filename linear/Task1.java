@@ -1,4 +1,4 @@
-package by.epam.training1.linear;
+package by.epam.training.linear;
 
 import java.util.Scanner;
 

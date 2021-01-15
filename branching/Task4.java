@@ -1,4 +1,4 @@
-package by.epam.training1.branching;
+package by.epam.training.branching;
 
 /**
  * Заданы размеры А, В прямоугольного отверстия и размеры х, у, z кирпича.

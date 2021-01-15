@@ -1,4 +1,4 @@
-package by.epam.training1.cycle;
+package by.epam.training.cycle;
 
 /**
  * Составить программу нахождения произведения квадратов первых двухсот чисел.
