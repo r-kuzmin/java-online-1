@@ -14,8 +14,8 @@ public class Task8 {
         int y;
 
         while (a > 0) {
-            x = a % 10;
-            a /= 10;
+            x = a % 10; // Первая справа цифра числа a.
+            a /= 10; // Остальные цифры числа a.
             bTemp = b;
 
             while (b > 0) {

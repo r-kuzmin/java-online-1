@@ -14,6 +14,7 @@ public class Task5 {
         e = 0.7;
         sum = 0;
 
+        // Числовой ряд сходящийся; предел функции a(n) -> 0.
         for (int n = 1; Math.abs(an) >= e; n++) {
             sum += an;
             an = 1.0 / Math.pow(2, n) + 1.0 / Math.pow(3, n);
